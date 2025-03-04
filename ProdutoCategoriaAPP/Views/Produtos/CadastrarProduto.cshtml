@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Produto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h1>Cadastrar Produtos</h1>
+    </div>
+    <div class="col-md-4 mx-auto p-4 border rounded shadow">
+        <div class="mb-3">
+            <label for="nomeProduto" class="form-label">Nome do Produto</label>
+            <div class="input-group input-group-md">
+                <input type="text" class="form-control" id="nomeProduto" aria-label="Nome do Produto" aria-describedby="inputGroup-sizing-md">
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="descricaoProduto" class="form-label">Descrição</label>
+            <div class="input-group input-group-md">
+                <textarea class="form-control" id="descricaoProduto" rows="5" aria-label="Descrição" aria-describedby="inputGroup-sizing-md"></textarea>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="categoriaProduto" class="form-label">Categoria</label>
+            <select class="form-select form-select-md" id="categoriaProduto" aria-label="Categoria">
+                <option selected>Selecione a Categoria</option>               
+            </select>
+            </div>
+        <div class="d-grid">
+            <button type="submit" class="btn btn-primary btn-md">Cadastrar</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const apiUrl = "https://localhost:44364/api/categoria"; // Ajuste o caminho da API aqui
+
+        fetch(apiUrl)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Erro na Requisição (Get Categoria): ${response.status}`);
+                }
+                return response.json(); 
+            })
+            .then(categorias => {
+                const select = document.getElementById('categoriaProduto');
+
+                categorias.forEach(categoria => { 
+                    const option = document.createElement('option');
+                    option.value = categoria.categoriaId; 
+                    option.textContent = categoria.nome; 
+                    select.appendChild(option);
+                });
+            })
+            .catch(error => {
+                console.error('Erro ao buscar categorias:', error);
+            });
+    });
+</script>

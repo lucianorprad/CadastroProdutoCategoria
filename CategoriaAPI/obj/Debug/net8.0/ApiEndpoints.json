@@ -44,5 +44,57 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "CategoriaAPI.Controllers.CategoriaController",
+    "Method": "DeleteCategoria",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "CategoriaAPI.Models.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CategoriaAPI.Models.Categoria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CategoriaAPI.Controllers.CategoriaController",
+    "Method": "PutCategoria",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "CategoriaAPI.Models.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CategoriaAPI.Models.Categoria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

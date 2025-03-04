@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\categoriaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|solutionrelative:categoriaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtocategoriaapp\\views\\produtos\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|solutionrelative:produtocategoriaapp\\views\\produtos\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|solutionrelative:produtoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\categoriaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|solutionrelative:categoriaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtocategoriaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|solutionrelative:produtocategoriaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtocategoriaapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|solutionrelative:produtocategoriaapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\categoriaapi\\categoriaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -23,24 +23,24 @@
       "RelativeMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|solutionrelative:categoriaapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\categoriaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|solutionrelative:categoriaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtocategoriaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|solutionrelative:produtocategoriaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\categoriaapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|solutionrelative:categoriaapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtocategoriaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|solutionrelative:produtocategoriaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|solutionrelative:produtoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtocategoriaapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|solutionrelative:produtocategoriaapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\categoriaapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC11C891-BBAF-4C30-BD83-F85EF71D3470}|CategoriaAPI\\CategoriaAPI.csproj|solutionrelative:categoriaapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtocategoriaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FAB362-2A96-4BC6-953D-99624A1179CD}|ProdutoCategoriaAPP\\ProdutoCategoriaAPP.csproj|solutionrelative:produtocategoriaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|solutionrelative:produtoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|c:\\users\\luciano prado\\desktop\\cadastroprodutocategoria\\produtoapi\\produtoapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690C7232-A8D7-4E78-8697-CD7DD9928BCB}|ProdutoAPI\\ProdutoAPI.csproj|solutionrelative:produtoapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,101 +50,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\appsettings.json",
-              "RelativeDocumentMoniker": "ProdutoCategoriaAPP\\appsettings.json",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\appsettings.json",
-              "RelativeToolTip": "ProdutoCategoriaAPP\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T01:54:51.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "CategoriaAPI\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "CategoriaAPI\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIAwwCQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:33:15.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CategoriaAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "CategoriaAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:24:22.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "CategoriaAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "CategoriaAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:23:10.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProdutoAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ProdutoAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:22:31.739Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ProdutoAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\appsettings.json",
-              "RelativeToolTip": "ProdutoAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T00:45:07.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "CategoriaAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\appsettings.json",
-              "RelativeToolTip": "CategoriaAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T00:33:40.107Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CategoriaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Program.cs",
+              "RelativeToolTip": "CategoriaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:17:12.893Z",
               "EditorCaption": ""
             },
             {
@@ -155,35 +73,117 @@
               "RelativeDocumentMoniker": "CategoriaAPI\\CategoriaAPI.csproj",
               "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\CategoriaAPI.csproj",
               "RelativeToolTip": "CategoriaAPI\\CategoriaAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T00:30:57.624Z",
+              "WhenOpened": "2025-03-04T19:58:58.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProdutoCategoriaAPP\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProdutoCategoriaAPP\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T18:39:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Views\\Produtos\\CadastrarProduto.cshtml",
+              "RelativeDocumentMoniker": "ProdutoCategoriaAPP\\Views\\Produtos\\CadastrarProduto.cshtml",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Views\\Produtos\\CadastrarProduto.cshtml",
+              "RelativeToolTip": "ProdutoCategoriaAPP\\Views\\Produtos\\CadastrarProduto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T18:19:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProdutoCategoriaAPP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProdutoCategoriaAPP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T17:47:19.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "CategoriaAPI\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Models\\Categoria.cs",
-              "RelativeToolTip": "CategoriaAPI\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Program.cs",
+              "RelativeDocumentMoniker": "ProdutoCategoriaAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Program.cs",
+              "RelativeToolTip": "ProdutoCategoriaAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T23:31:17.983Z",
+              "WhenOpened": "2025-03-04T17:57:08.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "ProdutoAPI\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\Models\\Produto.cs",
-              "RelativeToolTip": "ProdutoAPI\\Models\\Produto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ProdutoCategoriaAPP\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ProdutoCategoriaAPP\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T23:30:48.825Z",
+              "WhenOpened": "2025-03-04T17:56:07.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProdutoCategoriaAPP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoCategoriaAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProdutoCategoriaAPP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T17:43:36.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProdutoAPI\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\ProdutoAPI\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProdutoAPI\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:52:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "CategoriaAPI\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Luciano Prado\\Desktop\\CadastroProdutoCategoria\\ProdutoAPI\\CategoriaAPI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "CategoriaAPI\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:33:15.925Z",
               "EditorCaption": ""
             }
           ]

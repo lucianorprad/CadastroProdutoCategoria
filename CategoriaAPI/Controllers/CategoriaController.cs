@@ -2,6 +2,7 @@
 using CategoriaAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using CategoriaAPI.Data;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace CategoriaAPI.Controllers
 {
@@ -20,7 +21,18 @@ namespace CategoriaAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Categoria>>> GetCategorias()
         {
-            return await _context.Categoria.ToListAsync();
+
+            try
+            {
+                return await _context.Categoria.ToListAsync();
+
+            }
+
+
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Erro Inesperado" + ex.Message);
+            }
         }
 
         [HttpPost]
@@ -33,5 +45,29 @@ namespace CategoriaAPI.Controllers
             return CreatedAtAction(nameof(GetCategorias), new { id = categoria.CategoriaId }, categoria);
 
         }
+
+
+        [HttpDelete]
+
+        public async Task<ActionResult<Categoria>>  DeleteCategoria(Categoria categoria)
+        {
+            _context.Categoria.Remove(categoria);
+            await _context.SaveChangesAsync();
+
+            return Ok(categoria);
+        }
+
+        [HttpPut]
+
+        public async Task<ActionResult<Categoria>> PutCategoria(Categoria categoria)
+        {
+            _context.Categoria.Update(categoria);
+            await _context.SaveChangesAsync();
+
+            return Ok(categoria);
+        }
+
+
+
     }
 }

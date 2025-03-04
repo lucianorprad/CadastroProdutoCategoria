@@ -13,10 +13,10 @@ namespace ProdutoAPI.Data
         {
             // Configuração da relação sem propriedade de navegação
             modelBuilder.Entity<Produto>()
-                .HasOne<CategoriaAPI.Models.Categoria>() // Especifica o tipo da entidade relacionada
-                .WithMany() // Indica que não há propriedade de navegação inversa
+                .HasOne<CategoriaAPI.Models.Categoria>()
+                .WithMany() 
                 .HasForeignKey(p => p.CategoriaId)
-                .IsRequired(false); // Caso CategoriaId possa ser nulo
+                .IsRequired(true);
 
             base.OnModelCreating(modelBuilder);
         }
